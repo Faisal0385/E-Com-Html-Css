@@ -1,2 +1,2 @@
-# E-com-html-css
- E-com Html
+# ecommerce-template
+Ecommerce template built with HTML & CSS E-com Html
